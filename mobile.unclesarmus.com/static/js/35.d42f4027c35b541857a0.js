@@ -1,0 +1,2 @@
+webpackJsonp([35],{IMBv:function(e,t,l){"use strict";Object.defineProperty(t,"__esModule",{value:!0});var n=l("0+Q0"),r=l("Q/W4"),s=(n.a,r.a,{components:{Cell:n.a,Group:r.a}}),a=function(){var e=this,t=e.$createElement,l=e._self._c||t;return l("group",[l("cell",{attrs:{title:"修改密码","is-link":"",link:"/safe-password"}})],1)},u=[],o={render:a,staticRenderFns:u},c=o,i=l("C7Lr"),p=i(s,c,!1,null,null,null);t.default=p.exports}});
+//# sourceMappingURL=35.d42f4027c35b541857a0.js.map

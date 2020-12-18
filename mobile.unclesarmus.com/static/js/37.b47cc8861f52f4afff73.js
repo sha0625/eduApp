@@ -1,0 +1,2 @@
+webpackJsonp([37],{dPuH:function(e,n,r){"use strict";Object.defineProperty(n,"__esModule",{value:!0});var t=function(){var e=this,n=e.$createElement;return(e._self._c||n)("span",[e._v("\r\n    正在开发，敬请期待\r\n")])},l=[],u={render:t,staticRenderFns:l},s=u,a=r("C7Lr"),c=a(null,s,!1,null,null,null);n.default=c.exports}});
+//# sourceMappingURL=37.b47cc8861f52f4afff73.js.map
